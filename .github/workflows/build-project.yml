@@ -28,6 +28,6 @@ jobs:
         image: manjeetsuhag/github-actions-bootapp
         tags: v1, latest
         registry: docker.io
-        dockerfile: Dockerfile.ci
+        dockerfile: Dockerfile
         username: ${{ secrets.DOCKER_USER }}
         password: ${{ secrets.DOCKER_PASSWORD }}
