@@ -1,0 +1,57 @@
+[33mcommit c704c7b407e4c996b1910c569bf4efc26cbda63b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: learner <learner@learners-MBP.lan>
+Date:   Sat Apr 16 09:12:21 2022 +0200
+
+    changed java version
+
+[33mcommit 018ec53719ef9113bdeae1dad9d774e47e17e8d1[m
+Author: learner <learner@learners-MBP.lan>
+Date:   Sat Apr 16 00:09:24 2022 +0200
+
+    changed pom
+
+[33mcommit be2d5948910afd3bd3236e70e6bc51cd745ff940[m
+Author: Manjeet Suhag <manjeetsuhag@gmail.com>
+Date:   Fri Apr 15 21:57:16 2022 +0200
+
+    Update build-project.yml
+
+[33mcommit 3532a1b7c1bf6231dcc7442a8cec596e768ab0d3[m
+Author: Manjeet Suhag <manjeetsuhag@gmail.com>
+Date:   Fri Apr 15 21:54:10 2022 +0200
+
+    add Dockerfile
+    
+    Added docker file to repo
+
+[33mcommit 34c7f9bd910f9b8191e875095b512b94e18c709c[m
+Author: Manjeet Suhag <manjeetsuhag@gmail.com>
+Date:   Fri Apr 15 21:43:26 2022 +0200
+
+    Build Image/Push to docker registry
+    
+    added docker image build and push to docker-hub
+
+[33mcommit 09478932300aec46243044e0635f18ceb448d167[m
+Author: Manjeet Suhag <manjeetsuhag@gmail.com>
+Date:   Fri Apr 15 20:05:35 2022 +0200
+
+    Build project
+
+[33mcommit 4d4778435a32a5be401a03213543af76b46702c2[m
+Author: Manjeet Suhag <manjeetsuhag@gmail.com>
+Date:   Fri Apr 15 19:52:00 2022 +0200
+
+    Update README.md
+
+[33mcommit 8c296ad1ded77e8c2f988b8185a81314337c525e[m
+Author: learner <learner@learners-MBP.lan>
+Date:   Fri Apr 15 19:32:40 2022 +0200
+
+    Initial commit with greet controller
+
+[33mcommit 79d4085d3d1ca35bf324ec28d7c176bcff4074fc[m
+Author: Manjeet Suhag <manjeetsuhag@gmail.com>
+Date:   Fri Apr 15 19:25:41 2022 +0200
+
+    Initial commit

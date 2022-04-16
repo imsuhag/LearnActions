@@ -1,4 +1,4 @@
-FROM openjdk:17-oracle
+FROM openjdk:17-alpine
 WORKDIR /app
 VOLUME /tmp
 COPY target/LearnActions.jar LearnActions.jar
