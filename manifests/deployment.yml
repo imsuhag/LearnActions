@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "manjeetaks-b129"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "manjeetaks-b129"
+  template:
+    metadata:
+      labels:
+        app: "manjeetaks-b129"
+    spec:
+      containers:
+        - name: "manjeetaks-b129"
+          image: "manjeetazacr.azurecr.io/manjeetaks"
+          ports:
+          - containerPort: 80
